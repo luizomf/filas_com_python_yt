@@ -1,0 +1,7 @@
+{
+  "window.zoomLevel": 0,
+  "python.pythonPath": "venv/bin/python",
+  "code-runner.executorMap": {
+    "python": "clear && venv/bin/python",
+  }
+}
